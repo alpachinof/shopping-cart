@@ -3,8 +3,17 @@
 shopping cart using nuxt 2 and vuetify
 
 images:
+
+home page:
+
 ![](static//1.png)
+
+product list:
+
 ![](static//2.png)
+
+shopping cart:
+
 ![](static/3.png)
 
 ## Build Setup
